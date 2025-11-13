@@ -1,0 +1,7 @@
+{
+  "name": "Argument Coach",
+  "description": "An AI-powered assistant to help you navigate disagreements and arguments calmly and effectively. Get coaching on what to say next to strengthen your position and de-escalate tension.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
